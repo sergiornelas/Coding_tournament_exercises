@@ -1,0 +1,2 @@
+g++ <filename>.<extension> -o <filename>
+./<filename>
